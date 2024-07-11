@@ -2,7 +2,7 @@
 
 The Weather App is a simple, intuitive application that provides real-time weather information for any location in the world. It allows users to view current weather conditions, a 7-day forecast, and other relevant weather data.
 
-Features-
+# Features-
 
 -> Current Weather: Get real-time weather information including temperature, humidity, wind speed, and more.
 
@@ -14,7 +14,7 @@ Features-
 
 -> Error Handling: Graceful error handling for invalid locations or network issues.
 
-Technologies Used-
+# Technologies Used-
 
 Frontend: HTML, CSS, JavaScript
 
