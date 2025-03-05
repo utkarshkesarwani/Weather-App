@@ -1,6 +1,5 @@
 # Weather App
 
-![Weather App](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weather_forecast_icons.svg/640px-Weather_forecast_icons.svg.png)
 
 ## Overview
 The **Weather App** is a simple web application that provides real-time weather updates for any location worldwide. It utilizes the **OpenWeatherMap API** to fetch weather data and displays it in a user-friendly interface. The app is built using **HTML, CSS, and JavaScript**, making it lightweight and easy to use.
